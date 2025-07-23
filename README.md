@@ -1,1 +1,1 @@
-# detecci-n-se-ales-de-tr-nsito-verticales
+# Modelo_de_entrenamiento_para_detección_de_señales_verticales
